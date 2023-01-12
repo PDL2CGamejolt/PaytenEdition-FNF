@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "annie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhhhhhhhhhhhhhhhhhhhhhh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "annie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Where am I?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "polly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're in the void, Your mod got deleted before it even released!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "polly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah! and all because of the owner breaking the game as he wanted to put the mod \"Some Say No\" built in to the mod, and he changed-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "polly",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "-the character names and broke them, so he permanently deleted the folder, and we got teleported to the void!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "annie",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT?!?!?!??!?!??!"
+		}
+	]
+}

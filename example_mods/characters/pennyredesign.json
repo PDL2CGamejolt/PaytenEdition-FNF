@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "pennyredesign idle000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "pennyredesign idle000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pennyredesign left000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "pennyredesign left000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pennyredesign right000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "pennyredesign right000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "pennyredesign up000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pennyredesign up000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pennyredesign down000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "hairBlow",
+			"indices": [],
+			"name": "pennyredesign dressblow000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "hairFall",
+			"loop": false,
+			"name": "pennyredesign idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pennyredesign",
+	"position": [
+		-120,
+		70
+	],
+	"healthicon": "pennynew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		83,
+		0
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

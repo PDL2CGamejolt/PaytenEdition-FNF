@@ -1,0 +1,103 @@
+{
+	"storyName": "Did you know that.....",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Some Say No",
+			"leslie",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"Anglophila",
+			"leslie",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"Its Your Move",
+			"leslie",
+			[
+				255,
+				80,
+				0
+			]
+		],
+		[
+			"Hand Drawn",
+			"pmnew",
+			[
+				255,
+				113,
+				255
+			]
+		],
+		[
+			"Humanity",
+			"pennyredesign",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"Crossover",
+			"pmpennynew",
+			[
+				255,
+				0,
+				253
+			]
+		],
+		[
+			"Shittake",
+			"leland",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Assualt",
+			"leland",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Reversal",
+			"pmpennynew",
+			[
+				255,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Leslie"
+}

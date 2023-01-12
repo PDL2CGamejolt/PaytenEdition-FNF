@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Ohhhhhh, where am I?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "I have no idea!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lesliedialogue"
+		},
+		{
+			"expression": "confused",
+			"text": "Well, can you try explaining what this place is and how we got here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, I found this thing and that teleported me here, and then I called you guys in-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lesliedialogue"
+		},
+		{
+			"expression": "demon",
+			"text": "I AM NOT A GUY!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Whatever....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lesliedialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "So-- should we rap?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lesliedialogue"
+		},
+		{
+			"expression": "excited",
+			"text": "YEAH!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

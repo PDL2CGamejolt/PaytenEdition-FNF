@@ -1,0 +1,263 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Pencilmiss,why did you break my table?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "What the what is this?!?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "IS THIS MY SOCIAL SECURITY CARD!?!?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "no its just pencilmiss.....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "WAIT- PENCILMISS?!?!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "IS SHE GOING TO BREAK MY NEW TABLE?!?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "no dude, we are going to rap battle once again!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pm"
+		},
+		{
+			"expression": "talk",
+			"text": "this time I brought a new friend, her name is Penny Fitzgerald.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pm"
+		},
+		{
+			"expression": "confused",
+			"text": "who's penny Fitzgerald?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Haven't you watched The Amazing World Of Gumball?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Nope, never heard of it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "LOOK IT UP YOU DUM DUM!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "dum dum...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "are you talking about the candy?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO! I MEAN YOUR A DUMB PERSON!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "*GASP!*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "YOU TAKE THAT BACK!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ill look it up!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*reads the amazing world of gumball wikipedia page*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, ok. now I know who Penny Fitzgerald is!"
+		},
+		{
+			"expression": "hahaha",
+			"text": "THATS RIGHT!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "pennyhuman"
+		},
+		{
+			"expression": "shocked",
+			"text": "WHAT THE-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I know that Gumball has a crush on you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, you're right!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but my dad won't let me talk to him!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ik"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WAIT WAIT!?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I GOT SPOILED!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAA-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Penny? aren't you supposed to be some sort of shape-shifting fairy creature or something?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes, but somehow I've turned into a human!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but not the canon human."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WOW! I'VE FOUND BF FROM THE GAME\\nFRIDAY NIGHT FUNKIN!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "THATS RIGHT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh cool now YOU'RE doing it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets just start the song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I agree"
+		}
+	]
+}

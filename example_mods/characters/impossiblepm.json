@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "impossiblitypm idle000"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "impossiblitypm idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/impossiblitypm",
+	"position": [
+		240,
+		260
+	],
+	"healthicon": "pmimpossible",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		255
+	],
+	"camera_position": [
+		-140,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

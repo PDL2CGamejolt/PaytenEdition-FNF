@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dehumanizedpenny.png"><SubTexture name="dehumanizedpenny idle0000" x="0" y="0" width="578" height="628" frameX="0" frameY="0" frameWidth="578" frameHeight="628" />
+<SubTexture name="dehumanizedpenny left0000" x="578" y="0" width="578" height="628" frameX="0" frameY="0" frameWidth="578" frameHeight="628" />
+<SubTexture name="dehumanizedpenny down0000" x="0" y="628" width="578" height="628" frameX="0" frameY="0" frameWidth="578" frameHeight="628" />
+<SubTexture name="dehumanizedpenny right0000" x="578" y="628" width="578" height="628" frameX="0" frameY="0" frameWidth="578" frameHeight="628" />
+<SubTexture name="dehumanizedpenny up0000" x="0" y="1256" width="578" height="628" frameX="0" frameY="0" frameWidth="578" frameHeight="628" />
+</TextureAtlas>

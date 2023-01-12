@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "homah idle000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/homah",
+	"position": [
+		1070,
+		-500
+	],
+	"healthicon": "homer",
+	"flip_x": false,
+	"healthbar_colors": [
+		239,
+		255,
+		98
+	],
+	"camera_position": [
+		-1440,
+		-1010
+	],
+	"sing_duration": 6.1,
+	"scale": 5.2
+}

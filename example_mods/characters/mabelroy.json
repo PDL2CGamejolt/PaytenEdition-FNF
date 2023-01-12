@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mabelroyale idle000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/mabelroyale",
+	"position": [
+		750,
+		-500
+	],
+	"healthicon": "mabel",
+	"flip_x": false,
+	"healthbar_colors": [
+		250,
+		221,
+		76
+	],
+	"camera_position": [
+		-1870,
+		-890
+	],
+	"sing_duration": 6.1,
+	"scale": 3.5
+}

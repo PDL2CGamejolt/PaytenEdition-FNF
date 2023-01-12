@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		50
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				-12
+			],
+			"idle_offsets": [
+				0,
+				-12
+			],
+			"loop_name": "lesliedialogue normal",
+			"idle_name": "lesliedialogue normal"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				5,
+				0
+			],
+			"loop_name": "lesliedialogue ssn",
+			"idle_name": "lesliedialogue ssn"
+		}
+	],
+	"image": "lesliedialogue"
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="danm.png">
+<SubTexture name="danm idle0000" x="0" y="0" width="232" height="337" frameX="-34" frameY="-14" frameWidth="316" frameHeight="373" />
+</TextureAtlas>

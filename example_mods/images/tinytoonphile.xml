@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tinytoonphile.png">
+<SubTexture name="tinytoonphile idle0000" x="0" y="0" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0001" x="370" y="0" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0002" x="0" y="320" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0003" x="370" y="320" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0004" x="740" y="0" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0005" x="740" y="320" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0006" x="0" y="640" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0007" x="370" y="640" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0008" x="740" y="640" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0009" x="1110" y="0" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0010" x="1110" y="320" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0011" x="1110" y="640" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0012" x="0" y="960" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+<SubTexture name="tinytoonphile idle0013" x="370" y="960" width="370" height="320" frameX="0" frameY="0" frameWidth="370" frameHeight="320" />
+</TextureAtlas>

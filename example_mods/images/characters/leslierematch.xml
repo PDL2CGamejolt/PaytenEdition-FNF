@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leslierematch.png"><SubTexture name="leslierematch hey0000" x="0" y="0" width="568" height="622" frameX="0" frameY="0" frameWidth="568" frameHeight="622" />
+<SubTexture name="leslierematch idle0000" x="568" y="0" width="599" height="623" frameX="0" frameY="0" frameWidth="599" frameHeight="623" />
+<SubTexture name="leslierematch right0000" x="0" y="623" width="701" height="615" frameX="0" frameY="0" frameWidth="701" frameHeight="615" />
+<SubTexture name="leslierematch left0000" x="701" y="623" width="553" height="615" frameX="0" frameY="0" frameWidth="553" frameHeight="615" />
+<SubTexture name="leslierematch down0000" x="0" y="1238" width="582" height="615" frameX="0" frameY="0" frameWidth="582" frameHeight="615" />
+<SubTexture name="leslierematch up0000" x="582" y="1238" width="557" height="615" frameX="0" frameY="0" frameWidth="557" frameHeight="615" />
+</TextureAtlas>

@@ -1,0 +1,113 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Reactor-Meltdown",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rude-Buster",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"TF-Nice-less",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Ban-avade",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"11-5-21",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Corruption",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Deleted",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Recovery",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Funny",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"High",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

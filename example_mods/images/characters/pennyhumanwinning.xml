@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pennyhumanwinning.png"><SubTexture name="pennyhumanwinning idle0000" x="0" y="0" width="396" height="573" frameX="0" frameY="0" frameWidth="396" frameHeight="573" />
+<SubTexture name="pennyhumanwinning left0000" x="396" y="0" width="436" height="585" frameX="0" frameY="0" frameWidth="436" frameHeight="585" />
+<SubTexture name="pennyhumanwinning left0001" x="832" y="0" width="436" height="585" frameX="0" frameY="0" frameWidth="436" frameHeight="585" />
+<SubTexture name="pennyhumanwinning right0000" x="0" y="585" width="471" height="601" frameX="0" frameY="0" frameWidth="471" frameHeight="601" />
+<SubTexture name="pennyhumanwinning right0001" x="471" y="585" width="471" height="601" frameX="0" frameY="0" frameWidth="471" frameHeight="601" />
+<SubTexture name="pennyhumanwinning up0000" x="942" y="585" width="396" height="546" frameX="0" frameY="0" frameWidth="396" frameHeight="546" />
+<SubTexture name="pennyhumanwinning up0001" x="0" y="1186" width="396" height="594" frameX="0" frameY="0" frameWidth="396" frameHeight="594" />
+<SubTexture name="pennyhumanwinning up0002" x="396" y="1186" width="397" height="667" frameX="0" frameY="0" frameWidth="397" frameHeight="667" />
+<SubTexture name="pennyhumanwinning up0003" x="793" y="1186" width="396" height="573" frameX="0" frameY="0" frameWidth="396" frameHeight="573" />
+<SubTexture name="pennyhumanwinning down0000" x="0" y="1853" width="396" height="573" frameX="0" frameY="0" frameWidth="396" frameHeight="573" />
+<SubTexture name="pennyhumanwinning down0001" x="396" y="1853" width="486" height="507" frameX="0" frameY="0" frameWidth="486" frameHeight="507" />
+<SubTexture name="pennyhumanwinning down0002" x="882" y="1853" width="476" height="425" frameX="0" frameY="0" frameWidth="476" frameHeight="425" />
+</TextureAtlas>

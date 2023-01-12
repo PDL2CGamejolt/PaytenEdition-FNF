@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello back pencilmiss!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello back doesn't make scene!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "k"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am back, but this time I DON'T have Penny with me, She's scared of the road!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh...... why?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shes scared of being run over and bonked by the head with a pole."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ohhhhhhhhhhh! I remember FNF HD week 4"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but thats a block-worthy thing for PDL2C."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "WHY IS THERE SO MANY PDL2C REFERENC-/ ES!!!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, I made it so you can't possibly beat me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HGEYUSHIPDOHGKJEUISHGJEFIJEIEJIDJE/ YHEDUIHRGYUDFEHUEIOHEUIEGHIUEBEMDE/ EUIKJGDBEUHJFDEVUYGEWBIUGWEBK!!!"
+		}
+	]
+}

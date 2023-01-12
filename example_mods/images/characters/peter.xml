@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peter.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="peter down0000" x="2418" y="935" width="547" height="870"/>
+	<SubTexture name="peter down0001" x="3020" y="935" width="547" height="870"/>
+	<SubTexture name="peter down0002" x="10" y="1860" width="547" height="870"/>
+	<SubTexture name="peter down0003" x="612" y="1860" width="547" height="870"/>
+	<SubTexture name="peter down0004" x="1214" y="1860" width="547" height="870"/>
+	<SubTexture name="peter idle0000" x="10" y="10" width="547" height="870"/>
+	<SubTexture name="peter idle0001" x="612" y="10" width="547" height="870"/>
+	<SubTexture name="peter idle0002" x="1214" y="10" width="547" height="870"/>
+	<SubTexture name="peter idle0003" x="1816" y="10" width="547" height="870"/>
+	<SubTexture name="peter idle0004" x="2418" y="10" width="547" height="870"/>
+	<SubTexture name="peter left0000" x="1214" y="2785" width="547" height="870"/>
+	<SubTexture name="peter left0001" x="1816" y="2785" width="547" height="870"/>
+	<SubTexture name="peter left0002" x="2418" y="2785" width="547" height="870"/>
+	<SubTexture name="peter left0003" x="3020" y="2785" width="547" height="870"/>
+	<SubTexture name="peter left0004" x="10" y="3710" width="547" height="870"/>
+	<SubTexture name="peter right0000" x="3020" y="10" width="547" height="870"/>
+	<SubTexture name="peter right0001" x="10" y="935" width="547" height="870"/>
+	<SubTexture name="peter right0002" x="612" y="935" width="547" height="870"/>
+	<SubTexture name="peter right0003" x="1214" y="935" width="547" height="870"/>
+	<SubTexture name="peter right0004" x="1816" y="935" width="547" height="870"/>
+	<SubTexture name="peter up0000" x="1816" y="1860" width="547" height="870"/>
+	<SubTexture name="peter up0001" x="2418" y="1860" width="547" height="870"/>
+	<SubTexture name="peter up0002" x="3020" y="1860" width="547" height="870"/>
+	<SubTexture name="peter up0003" x="10" y="2785" width="547" height="870"/>
+	<SubTexture name="peter up0004" x="612" y="2785" width="547" height="870"/>
+</TextureAtlas>

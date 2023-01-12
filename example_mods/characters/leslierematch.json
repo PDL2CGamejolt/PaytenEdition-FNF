@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "leslierematch idle0000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "leslierematch idle0000"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "leslierematch right0000"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "leslierematch left0000"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "leslierematch up0000"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "leslierematch down0000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "leslierematch hey0000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leslierematch",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "leslie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

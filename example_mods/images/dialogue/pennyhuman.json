@@ -1,0 +1,50 @@
+{
+	"position": [
+		100,
+		60
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "pennyhumandialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "pennyhumandialogue normal000",
+			"loop_name": "pennyhumandialogue normal000"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-11
+			],
+			"anim": "shocked",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "pennyhumandialogue shocked000",
+			"loop_name": "pennyhumandialogue shocked000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hahaha",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "pennyhumandialogue hahaha000",
+			"idle_name": "pennyhumandialogue hahaha000"
+		}
+	]
+}

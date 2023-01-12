@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shrugspong.png">
+<SubTexture name="shrugspong idle0000" x="0" y="0" width="215" height="290" frameX="0" frameY="0" frameWidth="215" frameHeight="290" />
+</TextureAtlas>

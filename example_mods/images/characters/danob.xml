@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="danob.png">
+<SubTexture name="idle0000" x="0" y="707" width="627" height="489" frameX="-233" frameY="-258" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="idle0001" x="0" y="0" width="830" height="707" frameX="-157" frameY="-154" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="idle0002" x="830" y="0" width="744" height="615" frameX="-190" frameY="-196" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="left0000" x="835" y="1196" width="670" height="464" frameX="-174" frameY="-316" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="left0001" x="1505" y="1196" width="638" height="429" frameX="-200" frameY="-356" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="left0002" x="634" y="2142" width="626" height="342" frameX="-215" frameY="-419" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="down0000" x="627" y="707" width="625" height="489" frameX="-233" frameY="-257" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="down0001" x="2208" y="0" width="621" height="416" frameX="-234" frameY="-304" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="down0002" x="1574" y="907" width="626" height="249" frameX="-235" frameY="-420" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="up0000" x="1574" y="0" width="634" height="486" frameX="-231" frameY="-286" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="up0001" x="1574" y="486" width="602" height="421" frameX="-263" frameY="-339" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="up0002" x="0" y="2142" width="634" height="352" frameX="-238" frameY="-381" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="right0000" x="0" y="1196" width="835" height="486" frameX="-108" frameY="-200" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="right0001" x="0" y="1682" width="913" height="460" frameX="-92" frameY="-232" frameWidth="1056" frameHeight="1056" />
+<SubTexture name="right0002" x="913" y="1682" width="917" height="435" frameX="-104" frameY="-264" frameWidth="1056" frameHeight="1056" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pennyhumanblow.png"><SubTexture name="pennyhumanblow idle0000" x="0" y="0" width="439" height="597" frameX="0" frameY="0" frameWidth="439" frameHeight="597" />
+<SubTexture name="pennyhumanblow idle0001" x="439" y="0" width="494" height="597" frameX="0" frameY="0" frameWidth="494" frameHeight="597" />
+<SubTexture name="pennyhumanblow idle0002" x="0" y="597" width="552" height="629" frameX="0" frameY="0" frameWidth="552" frameHeight="629" />
+<SubTexture name="pennyhumanblow idle0003" x="552" y="597" width="531" height="585" frameX="0" frameY="0" frameWidth="531" frameHeight="585" />
+<SubTexture name="pennyhumanblow idle0004" x="0" y="1226" width="494" height="597" frameX="0" frameY="0" frameWidth="494" frameHeight="597" />
+</TextureAtlas>

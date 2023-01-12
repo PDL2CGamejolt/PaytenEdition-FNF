@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 9,
+			"anim": "idle",
+			"loop": false,
+			"name": "dehumanizedpenny idle000"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dehumanizedpenny left000"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singUP",
+			"loop": false,
+			"name": "dehumanizedpenny up000"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dehumanizedpenny right000"
+		},
+		{
+			"offsets": [
+				0,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dehumanizedpenny down000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dehumanizedpenny",
+	"position": [
+		-130,
+		250
+	],
+	"healthicon": "pennysplit",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		100,
+		71
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

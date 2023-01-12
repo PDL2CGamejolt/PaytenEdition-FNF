@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "marcy idle000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/marcy",
+	"position": [
+		-270,
+		-350
+	],
+	"healthicon": "marcy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		176,
+		0
+	],
+	"camera_position": [
+		170,
+		350
+	],
+	"sing_duration": 4,
+	"scale": 0.4
+}

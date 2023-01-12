@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="keekster.png">
+<SubTexture name="keekster idle0000" x="0" y="0" width="111" height="107" frameX="0" frameY="0" frameWidth="111" frameHeight="107" />
+</TextureAtlas>

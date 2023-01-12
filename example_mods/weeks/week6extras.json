@@ -1,0 +1,104 @@
+{
+	"storyName": "IDONTWANNASEEYOU",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"--extras--",
+			"none",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Cancellation-Speedrun",
+			"question",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Sentience",
+			"question",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Methion",
+			"question",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"You-Take-Some-Chocolate-and-Some-Renosance",
+			"daveandbambi",
+			[
+				0,
+				0,
+				253
+			]
+		],
+		[
+			"Recursed",
+			"payten",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"Lozano-Sounds",
+			"payten",
+			[
+				255,
+				0,
+				255
+			]
+		],
+		[
+			"Standing-Up-To-HTF",
+			"idowannaseeagoreyshow",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"Urine-Trouble",
+			"dad",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extras"
+}

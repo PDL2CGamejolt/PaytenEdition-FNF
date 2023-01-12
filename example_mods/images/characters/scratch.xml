@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scratch.png"><SubTexture name="scratch right0000" x="0" y="0" width="818" height="387" frameX="0" frameY="0" frameWidth="818" frameHeight="387" />
+<SubTexture name="scratch up0000" x="818" y="0" width="818" height="387" frameX="0" frameY="0" frameWidth="818" frameHeight="387" />
+<SubTexture name="scratch left0000" x="0" y="387" width="818" height="387" frameX="0" frameY="0" frameWidth="818" frameHeight="387" />
+<SubTexture name="scratch down0000" x="818" y="387" width="818" height="387" frameX="0" frameY="0" frameWidth="818" frameHeight="387" />
+<SubTexture name="scratch idle0000" x="0" y="774" width="818" height="387" frameX="0" frameY="0" frameWidth="818" frameHeight="387" />
+</TextureAtlas>

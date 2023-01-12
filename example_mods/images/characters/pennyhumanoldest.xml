@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pennyhuman.png"><SubTexture name="pennyhuman idle0000" x="0" y="0" width="392" height="577" frameX="0" frameY="0" frameWidth="392" frameHeight="577" />
+<SubTexture name="pennyhuman idle0001" x="392" y="0" width="394" height="465" frameX="0" frameY="0" frameWidth="394" frameHeight="465" />
+<SubTexture name="pennyhuman idle0002" x="786" y="0" width="393" height="525" frameX="0" frameY="0" frameWidth="393" frameHeight="525" />
+<SubTexture name="pennyhuman up0000" x="0" y="577" width="396" height="579" frameX="0" frameY="0" frameWidth="396" frameHeight="579" />
+<SubTexture name="pennyhuman up0001" x="396" y="577" width="396" height="579" frameX="0" frameY="0" frameWidth="396" frameHeight="579" />
+<SubTexture name="pennyhuman right0000" x="792" y="577" width="447" height="579" frameX="0" frameY="0" frameWidth="447" frameHeight="579" />
+<SubTexture name="pennyhuman right0001" x="0" y="1156" width="447" height="579" frameX="0" frameY="0" frameWidth="447" frameHeight="579" />
+<SubTexture name="pennyhuman down0000" x="447" y="1156" width="518" height="579" frameX="0" frameY="0" frameWidth="518" frameHeight="579" />
+<SubTexture name="pennyhuman down0001" x="965" y="1156" width="518" height="495" frameX="0" frameY="0" frameWidth="518" frameHeight="495" />
+<SubTexture name="pennyhuman down0002" x="0" y="1735" width="518" height="395" frameX="0" frameY="0" frameWidth="518" frameHeight="395" />
+<SubTexture name="pennyhuman left0000" x="518" y="1735" width="410" height="579" frameX="0" frameY="0" frameWidth="410" frameHeight="579" />
+<SubTexture name="pennyhuman left0001" x="928" y="1735" width="393" height="590" frameX="0" frameY="0" frameWidth="393" frameHeight="590" />
+<SubTexture name="pennyhuman left0002" x="0" y="2325" width="392" height="512" frameX="0" frameY="0" frameWidth="392" frameHeight="512" />
+</TextureAtlas>

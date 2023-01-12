@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pltve.png"><SubTexture name="pltve idle0000" x="0" y="0" width="355" height="373" frameX="0" frameY="0" frameWidth="355" frameHeight="373" />
+<SubTexture name="pltve idle0001" x="355" y="0" width="421" height="322" frameX="0" frameY="0" frameWidth="421" frameHeight="322" />
+<SubTexture name="pltve idle0002" x="776" y="0" width="625" height="211" frameX="0" frameY="0" frameWidth="625" frameHeight="211" />
+<SubTexture name="pltve idle0003" x="1401" y="0" width="721" height="85" frameX="0" frameY="0" frameWidth="721" frameHeight="85" />
+<SubTexture name="pltve idle0004" x="0" y="373" width="199" height="511" frameX="0" frameY="0" frameWidth="199" frameHeight="511" />
+<SubTexture name="pltve dodge0000" x="199" y="373" width="416" height="452" frameX="0" frameY="0" frameWidth="416" frameHeight="452" />
+<SubTexture name="pltve hey0000" x="615" y="373" width="467" height="305" frameX="0" frameY="0" frameWidth="467" frameHeight="305" />
+<SubTexture name="pltve right0000" x="1082" y="373" width="378" height="289" frameX="0" frameY="0" frameWidth="378" frameHeight="289" />
+<SubTexture name="pltve left0000" x="0" y="884" width="261" height="343" frameX="0" frameY="0" frameWidth="261" frameHeight="343" />
+<SubTexture name="pltve left0001" x="261" y="884" width="290" height="347" frameX="0" frameY="0" frameWidth="290" frameHeight="347" />
+<SubTexture name="pltve left0002" x="551" y="884" width="317" height="357" frameX="0" frameY="0" frameWidth="317" frameHeight="357" />
+<SubTexture name="pltve up0000" x="868" y="884" width="318" height="346" frameX="0" frameY="0" frameWidth="318" frameHeight="346" />
+<SubTexture name="pltve up0001" x="0" y="1241" width="318" height="415" frameX="0" frameY="0" frameWidth="318" frameHeight="415" />
+<SubTexture name="pltve up0002" x="318" y="1241" width="318" height="448" frameX="0" frameY="0" frameWidth="318" frameHeight="448" />
+<SubTexture name="pltve down0000" x="636" y="1241" width="273" height="355" frameX="0" frameY="0" frameWidth="273" frameHeight="355" />
+<SubTexture name="pltve down0001" x="909" y="1241" width="303" height="304" frameX="0" frameY="0" frameWidth="303" frameHeight="304" />
+<SubTexture name="pltve down0002" x="0" y="1689" width="411" height="208" frameX="0" frameY="0" frameWidth="411" frameHeight="208" />
+</TextureAtlas>

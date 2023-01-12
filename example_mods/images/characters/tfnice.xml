@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tfnice.png"><SubTexture name="tfnice down0000" x="0" y="0" width="352" height="355" frameX="0" frameY="0" frameWidth="352" frameHeight="355" />
+<SubTexture name="tfnice up0000" x="352" y="0" width="352" height="644" frameX="0" frameY="0" frameWidth="352" frameHeight="644" />
+<SubTexture name="tfnice idle0000" x="0" y="644" width="352" height="520" frameX="0" frameY="0" frameWidth="352" frameHeight="520" />
+<SubTexture name="tfnice right0000" x="352" y="644" width="371" height="494" frameX="0" frameY="0" frameWidth="371" frameHeight="494" />
+<SubTexture name="tfnice left0000" x="0" y="1164" width="352" height="520" frameX="0" frameY="0" frameWidth="352" frameHeight="520" />
+</TextureAtlas>

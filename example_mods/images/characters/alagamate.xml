@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="burgerkingarabianew.png"><SubTexture name="burgerkingarabianew idle0000" x="3328" y="1021" width="800" height="1014" frameX="-223" frameY="-166" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew idle0001" x="1659" y="0" width="832" height="1046" frameX="-187" frameY="-134" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew idle0002" x="2491" y="0" width="837" height="1036" frameX="-182" frameY="-144" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew idle0003" x="0" y="1130" width="844" height="1043" frameX="-175" frameY="-137" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew left0000" x="844" y="1130" width="937" height="1040" frameX="-169" frameY="-137" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew left0001" x="4152" y="973" width="1040" height="799" frameX="-51" frameY="-307" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew left0002" x="4152" y="0" width="1042" height="973" frameX="-50" frameY="-133" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew left0003" x="0" y="3204" width="1043" height="972" frameX="-52" frameY="-134" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew down0000" x="4152" y="1772" width="743" height="706" frameX="-270" frameY="-466" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew down0001" x="4152" y="2478" width="743" height="689" frameX="-270" frameY="-483" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew down0002" x="3328" y="2035" width="743" height="684" frameX="-270" frameY="-488" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew down0003" x="1043" y="3204" width="743" height="681" frameX="-270" frameY="-491" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew up0000" x="822" y="0" width="837" height="1122" frameX="-186" frameY="-45" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew up0001" x="0" y="0" width="822" height="1130" frameX="-201" frameY="-56" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew up0002" x="2491" y="1036" width="795" height="1034" frameX="-255" frameY="-154" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew up0003" x="0" y="2173" width="795" height="1031" frameX="-258" frameY="-157" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew right0000" x="795" y="2173" width="833" height="1029" frameX="-180" frameY="-143" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew right0001" x="1628" y="2173" width="829" height="1026" frameX="-194" frameY="-152" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew right0002" x="2457" y="2173" width="825" height="1023" frameX="-197" frameY="-155" frameWidth="1187" frameHeight="1200" />
+<SubTexture name="burgerkingarabianew right0003" x="3328" y="0" width="824" height="1021" frameX="-198" frameY="-157" frameWidth="1187" frameHeight="1200" />
+</TextureAtlas>

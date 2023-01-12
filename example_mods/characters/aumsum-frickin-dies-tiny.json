@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "aumsum gameoverstart",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "aumsum gameoverend",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "aumsum gameovermiddle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/aumsum",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "aumsum",
+	"flip_x": true,
+	"healthbar_colors": [
+		182,
+		90,
+		90
+	],
+	"camera_position": [
+		-340,
+		350
+	],
+	"sing_duration": 4,
+	"scale": 0.1
+}

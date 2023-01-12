@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "idle",
+			"loop": true,
+			"name": "amial idle000"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 13,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "amial down000"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "singUP",
+			"loop": false,
+			"name": "amial up"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "amial right"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "amial left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amial",
+	"position": [
+		-100,
+		60
+	],
+	"healthicon": "urdone",
+	"flip_x": false,
+	"healthbar_colors": [
+		54,
+		53,
+		52
+	],
+	"camera_position": [
+		-260,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

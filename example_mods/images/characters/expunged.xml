@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="expunged.png"><SubTexture name="expunged idle0000" x="0" y="0" width="246" height="317" frameX="0" frameY="0" frameWidth="246" frameHeight="317" />
+<SubTexture name="expunged left0000" x="246" y="0" width="596" height="596" frameX="0" frameY="0" frameWidth="596" frameHeight="596" />
+<SubTexture name="expunged up0000" x="0" y="596" width="596" height="596" frameX="0" frameY="0" frameWidth="596" frameHeight="596" />
+<SubTexture name="expunged right0000" x="596" y="596" width="596" height="596" frameX="0" frameY="0" frameWidth="596" frameHeight="596" />
+<SubTexture name="expunged down0000" x="0" y="1192" width="596" height="596" frameX="0" frameY="0" frameWidth="596" frameHeight="596" />
+</TextureAtlas>

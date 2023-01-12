@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				100
+			],
+			"anim": "idle-loop",
+			"fps": 9,
+			"name": "pennyhumanblow idle000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				100
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "pennyhumanblow idle000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pennyhumanblow",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "penny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

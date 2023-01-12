@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "kkkthumb idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kkkthumb",
+	"position": [
+		280,
+		-190
+	],
+	"healthicon": "kt",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		141,
+		139
+	],
+	"camera_position": [
+		-130,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

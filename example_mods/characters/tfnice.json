@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				45,
+				-50
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "idle",
+			"loop": false,
+			"name": "tfnice idle000"
+		},
+		{
+			"offsets": [
+				-5,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tfnice right000"
+		},
+		{
+			"offsets": [
+				45,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tfnice down000"
+		},
+		{
+			"offsets": [
+				75,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tfnice left000"
+		},
+		{
+			"offsets": [
+				45,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tfnice up000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tfnice",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "tfnice",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		75,
+		255
+	],
+	"camera_position": [
+		-90,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

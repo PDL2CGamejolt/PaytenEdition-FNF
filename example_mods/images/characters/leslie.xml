@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leslie.png">
+<SubTexture name="leslie idle0000" x="553" y="1792" width="642" height="344" frameX="-1" frameY="-299" frameWidth="643" frameHeight="643" />
+<SubTexture name="leslie idle0001" x="0" y="1792" width="553" height="495" frameX="-1" frameY="-59" frameWidth="554" frameHeight="554" />
+<SubTexture name="leslie idle0002" x="0" y="0" width="514" height="623" frameX="0" frameY="0" frameWidth="514" frameHeight="623" />
+<SubTexture name="leslie left0000" x="2023" y="0" width="491" height="520" frameX="0" frameY="0" frameWidth="491" frameHeight="520" />
+<SubTexture name="leslie left0001" x="480" y="1212" width="409" height="553" frameX="0" frameY="0" frameWidth="409" frameHeight="553" />
+<SubTexture name="leslie left0002" x="1012" y="623" width="431" height="589" frameX="0" frameY="0" frameWidth="431" frameHeight="589" />
+<SubTexture name="leslie down0000" x="0" y="1212" width="480" height="580" frameX="-12" frameY="-35" frameWidth="502" frameHeight="615" />
+<SubTexture name="leslie down0001" x="1520" y="589" width="480" height="582" frameX="-87" frameY="-27" frameWidth="604" frameHeight="609" />
+<SubTexture name="leslie down0002" x="532" y="623" width="480" height="589" frameX="0" frameY="0" frameWidth="480" frameHeight="589" />
+<SubTexture name="leslie up0000" x="1520" y="0" width="503" height="589" frameX="0" frameY="0" frameWidth="503" frameHeight="589" />
+<SubTexture name="leslie up0001" x="1017" y="0" width="503" height="601" frameX="0" frameY="0" frameWidth="503" frameHeight="601" />
+<SubTexture name="leslie up0002" x="514" y="0" width="503" height="619" frameX="0" frameY="0" frameWidth="503" frameHeight="619" />
+<SubTexture name="leslie right0000" x="1414" y="1212" width="564" height="538" frameX="0" frameY="0" frameWidth="564" frameHeight="538" />
+<SubTexture name="leslie right0001" x="889" y="1212" width="525" height="547" frameX="0" frameY="0" frameWidth="525" frameHeight="547" />
+<SubTexture name="leslie right0002" x="0" y="623" width="532" height="589" frameX="0" frameY="0" frameWidth="532" frameHeight="589" />
+</TextureAtlas>

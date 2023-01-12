@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="amialbreaker.png">
+<SubTexture name="amialbreaker idle0000" x="0" y="0" width="470" height="587" frameX="-105" frameY="-85" frameWidth="704" frameHeight="704" />
+</TextureAtlas>

@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Woah, Pencilmate! Those are some sick bars you got!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pmate",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, I've sang for ye-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uhhhh-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Alright, That's it. Now it's MY turn to rap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "But- You rarely even speak! Euh-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "YOU RARELY EVEN APPEAR ANYMO-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hush, hush. That was 2020, Now I appear more!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Oh."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Talk about living in the past!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You know, there's more types of characters! Like 1-timers, Incidentals, Minor-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ALRIGHT, WE DON'T NEED MORE COMMENTS/ FROM THE PEANUT GALLERY!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BUH-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "JUST SHUT UP AND RAP WITH ME!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		}
+	]
+}

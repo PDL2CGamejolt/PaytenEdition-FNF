@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pennyredesign.png">
+<SubTexture name="pennyredesign idle0000" x="0" y="0" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign idle0001" x="834" y="0" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign idle0002" x="0" y="682" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign left0000" x="834" y="682" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign left0001" x="1668" y="0" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign left0002" x="1668" y="682" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign down0000" x="0" y="1364" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign down0001" x="834" y="1364" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign down0002" x="1668" y="1364" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign up0000" x="2502" y="0" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign up0001" x="2502" y="682" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign up0002" x="2502" y="1364" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign right0000" x="0" y="2046" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign right0001" x="834" y="2046" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign right0002" x="1668" y="2046" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign dressblow0000" x="2502" y="2046" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign dressblow0001" x="3336" y="0" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign dressblow0002" x="3336" y="682" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+<SubTexture name="pennyredesign dressblow0003" x="3336" y="1364" width="834" height="682" frameX="0" frameY="0" frameWidth="834" frameHeight="682" />
+</TextureAtlas>

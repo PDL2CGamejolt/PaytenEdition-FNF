@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "scratch idle000"
+		},
+		{
+			"offsets": [
+				250,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "scratch left000"
+		},
+		{
+			"offsets": [
+				10,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "scratch right000"
+		},
+		{
+			"offsets": [
+				20,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "scratch down000"
+		},
+		{
+			"offsets": [
+				14,
+				71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "scratch up000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/scratch",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "scratchcat",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		95,
+		35
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

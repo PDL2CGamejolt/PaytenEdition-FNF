@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="amial.png">
+<SubTexture name="amial idle0000" x="1328" y="0" width="342" height="468" frameX="-185" frameY="-82" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial idle0001" x="645" y="478" width="330" height="407" frameX="-199" frameY="-115" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial idle0002" x="1328" y="468" width="341" height="462" frameX="-193" frameY="-89" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial left0000" x="676" y="0" width="309" height="471" frameX="-151" frameY="-96" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial left0001" x="343" y="0" width="333" height="472" frameX="-154" frameY="-85" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial left0002" x="0" y="0" width="343" height="478" frameX="-198" frameY="-89" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial down0000" x="1670" y="0" width="344" height="339" frameX="-198" frameY="-139" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial down0001" x="1026" y="949" width="343" height="384" frameX="-198" frameY="-139" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial down0002" x="342" y="949" width="342" height="450" frameX="-199" frameY="-111" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial up0000" x="684" y="949" width="342" height="448" frameX="-203" frameY="-86" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial up0001" x="0" y="949" width="342" height="454" frameX="-199" frameY="-94" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial up0002" x="985" y="0" width="343" height="469" frameX="-198" frameY="-89" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial right0000" x="327" y="478" width="318" height="470" frameX="-287" frameY="-100" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial right0001" x="0" y="478" width="327" height="471" frameX="-268" frameY="-99" frameWidth="704" frameHeight="704" />
+<SubTexture name="amial right0002" x="985" y="469" width="343" height="469" frameX="-198" frameY="-89" frameWidth="704" frameHeight="704" />
+</TextureAtlas>

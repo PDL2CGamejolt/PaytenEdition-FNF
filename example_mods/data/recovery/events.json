@@ -1,0 +1,74 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "recovery",
+		"player1": "bf",
+		"player2": "annie",
+		"player3": null,
+		"events": [
+			[
+				29026.5486725664,
+				[
+					[
+						"Screen Shake",
+						"1, 0.1",
+						"1, -0.1"
+					]
+				]
+			],
+			[
+				45044.2477876107,
+				[
+					[
+						"Screen Shake",
+						"1, 0.1",
+						"1, -0.1"
+					]
+				]
+			],
+			[
+				93185.8407079647,
+				[
+					[
+						"Screen Shake",
+						"1, 0.1",
+						"1, -0.1"
+					]
+				]
+			],
+			[
+				107522.123893805,
+				[
+					[
+						"Change Character",
+						"1",
+						"annie-alt"
+					],
+					[
+						"TextEvent",
+						"wait wait wait wait wait! NO ITS NOT FAIR MINES LEAKING",
+						"vcr.ttf"
+					]
+				]
+			],
+			[
+				110663.716814159,
+				[
+					[
+						"TextEvent",
+						"does everything just go to hell immediatly and were not even done with it yet?",
+						"vcr.ttf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 339,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Recovery"
+	}
+}

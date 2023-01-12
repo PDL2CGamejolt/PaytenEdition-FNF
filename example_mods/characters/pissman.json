@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PissMan_Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "PissMan_Left"
+		},
+		{
+			"offsets": [
+				60,
+				-107
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "PissMan_Down"
+		},
+		{
+			"offsets": [
+				-86,
+				101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "PissMan_Up"
+		},
+		{
+			"offsets": [
+				-7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "PissMan_Right"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Boom",
+			"indices": [],
+			"name": "PissMan_Boom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PissMan",
+	"position": [
+		-50,
+		320
+	],
+	"healthicon": "piss",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		201,
+		14
+	],
+	"camera_position": [
+		50,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

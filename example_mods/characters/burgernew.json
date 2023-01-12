@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "burgerkingarabianew idle000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "burgerkingarabianew idle000"
+		},
+		{
+			"offsets": [
+				-10,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "burgerkingarabianew left000"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "burgerkingarabianew left000"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "burgerkingarabianew down000"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "burgerkingarabianew up000"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "burgerkingarabianew up000"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "burgerkingarabianew right000"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "burgerkingarabianew right000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/burgerkingarabianew",
+	"position": [
+		-330,
+		-90
+	],
+	"healthicon": "burgernew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		260,
+		470
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "idle",
+			"fps": 9,
+			"name": "pennyhumanwinning idle000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "idle-loop",
+			"fps": 9,
+			"name": "pennyhumanwinning idle000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				43
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "pennyhumanwinning down000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				77
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "pennyhumanwinning right000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-8,
+				120
+			],
+			"anim": "singLEFT-loop",
+			"fps": 15,
+			"name": "pennyhumanwinning left000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				160
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "pennyhumanwinning up000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				160
+			],
+			"anim": "singUP-loop",
+			"fps": 15,
+			"name": "pennyhumanwinning up000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "pennyhumanwinning left000",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 10,
+			"name": "pennyhumanwinning right000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pennyhumanwinning",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "penny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

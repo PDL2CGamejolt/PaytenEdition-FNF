@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				-30
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "impossiblegf idle000"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 7,
+			"anim": "idle",
+			"loop": false,
+			"name": "impossiblegf idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/impossiblegf",
+	"position": [
+		-40,
+		170
+	],
+	"healthicon": "penny",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		83,
+		0
+	],
+	"camera_position": [
+		-50,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="banduinfgteev.png">
+<SubTexture name="banduinfgteev idle0000" x="0" y="0" width="850" height="481" frameX="0" frameY="0" frameWidth="850" frameHeight="481" />
+</TextureAtlas>

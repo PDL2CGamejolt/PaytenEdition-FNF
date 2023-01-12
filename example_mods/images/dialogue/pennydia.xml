@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pennydia.png">
+<SubTexture name="pennydia idle0000" x="431" y="0" width="455" height="307" frameX="0" frameY="0" frameWidth="455" frameHeight="307" />
+<SubTexture name="pennydia surp0000" x="0" y="0" width="431" height="329" frameX="0" frameY="0" frameWidth="431" frameHeight="329" />
+<SubTexture name="pennydia point0000" x="0" y="329" width="511" height="303" frameX="0" frameY="0" frameWidth="511" frameHeight="303" />
+<SubTexture name="pennydia scared0000" x="511" y="329" width="359" height="295" frameX="0" frameY="0" frameWidth="359" frameHeight="295" />
+</TextureAtlas>

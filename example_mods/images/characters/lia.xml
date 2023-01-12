@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lia.png"><SubTexture name="lia idle0000" x="0" y="0" width="271" height="445" frameX="0" frameY="0" frameWidth="271" frameHeight="445" />
+<SubTexture name="lia idle0001" x="271" y="0" width="267" height="442" frameX="0" frameY="0" frameWidth="267" frameHeight="442" />
+<SubTexture name="lia idle0002" x="538" y="0" width="267" height="443" frameX="0" frameY="0" frameWidth="267" frameHeight="443" />
+<SubTexture name="lia idle0003" x="0" y="445" width="254" height="427" frameX="0" frameY="0" frameWidth="254" frameHeight="427" />
+<SubTexture name="lia idle0004" x="254" y="445" width="256" height="438" frameX="0" frameY="0" frameWidth="256" frameHeight="438" />
+<SubTexture name="lia idle0005" x="510" y="445" width="316" height="447" frameX="0" frameY="0" frameWidth="316" frameHeight="447" />
+<SubTexture name="lia idle0006" x="0" y="892" width="293" height="455" frameX="0" frameY="0" frameWidth="293" frameHeight="455" />
+<SubTexture name="lia idle0007" x="293" y="892" width="317" height="456" frameX="0" frameY="0" frameWidth="317" frameHeight="456" />
+<SubTexture name="lia idle0008" x="610" y="892" width="242" height="474" frameX="0" frameY="0" frameWidth="242" frameHeight="474" />
+<SubTexture name="lia idle0009" x="0" y="1366" width="288" height="440" frameX="0" frameY="0" frameWidth="288" frameHeight="440" />
+<SubTexture name="lia idle0010" x="288" y="1366" width="337" height="442" frameX="0" frameY="0" frameWidth="337" frameHeight="442" />
+</TextureAtlas>

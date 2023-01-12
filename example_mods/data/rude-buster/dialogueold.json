@@ -1,0 +1,151 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pencilmiss,why did you break the table!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "What the what is this?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "IS THIS MY SOCIAL SECURITY CARD!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no its just pencilmiss....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WAIT- PENCILMISS?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "IS SHE GOING TO BREAK MY NEW TABLE?!?!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no dude, we are going to rap battle once again!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pm",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this time I brought a new friend, her name is Penny Fitzgerald."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "who's penny Fitzgerald?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "hahaha",
+			"text": "I AM!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WHAT THE-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FUN DIP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "DARN CENSORSHIP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I WAS ABOUT TO SWEAR!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but darn PDL2C has to censor it because swearing is innopropriate for a game for all ages."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "actually a mod."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "but isnt she a fairy? or something?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I just somehow turned into a human.... idk how!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pennyhuman",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "but- WOW! IS THIS YOU BOYFRIEND!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yes it is indeed!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so uhh- is anyone going to start the rap battle or-"
+		}
+	]
+}

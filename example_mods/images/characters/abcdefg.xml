@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="abcdefg.png"><SubTexture name="abcdefg idle0000" x="0" y="0" width="295" height="153" frameX="0" frameY="0" frameWidth="295" frameHeight="153" />
+</TextureAtlas>

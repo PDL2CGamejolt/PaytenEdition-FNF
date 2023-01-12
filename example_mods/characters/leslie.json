@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "leslie idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "leslie idle"
+		},
+		{
+			"offsets": [
+				21,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "leslie left"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "leslie down"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "leslie up"
+		},
+		{
+			"offsets": [
+				-30,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "leslie right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leslie",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "leslie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		80,
+		0
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

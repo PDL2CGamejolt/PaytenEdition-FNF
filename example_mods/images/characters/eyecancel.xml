@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eyecancel.png">
+<SubTexture name="eyecancel idle0000" x="0" y="0" width="344" height="292" frameX="-3" frameY="0" frameWidth="350" frameHeight="292" />
+</TextureAtlas>

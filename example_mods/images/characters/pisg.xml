@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pisg.png">
+<SubTexture name="pisg idle0000" x="0" y="0" width="267" height="363" frameX="-6" frameY="-13" frameWidth="300" frameHeight="380" />
+</TextureAtlas>

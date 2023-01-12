@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leland.png"><SubTexture name="leland idle0000" x="0" y="0" width="469" height="584" frameX="0" frameY="0" frameWidth="469" frameHeight="584" />
+<SubTexture name="leland left0000" x="469" y="0" width="307" height="323" frameX="0" frameY="0" frameWidth="307" frameHeight="323" />
+<SubTexture name="leland down0000" x="0" y="584" width="400" height="455" frameX="0" frameY="0" frameWidth="400" frameHeight="455" />
+<SubTexture name="leland up0000" x="400" y="584" width="457" height="557" frameX="0" frameY="0" frameWidth="457" frameHeight="557" />
+<SubTexture name="leland right0000" x="0" y="1141" width="577" height="386" frameX="0" frameY="0" frameWidth="577" frameHeight="386" />
+</TextureAtlas>

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NEPTUNE HAS BETRAYED US"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "HES TRAPPED US IN A WATERY GRAVE WE CANNOT LEAVE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WE CANT BREATHE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "oldspong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WE CANT BREATHE"
+		},
+		{
+			"speed": 0.065,
+			"portrait": "oldspong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WE CANT BREATHE"
+		},
+		{
+			"speed": 0.09,
+			"portrait": "oldspong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WE CANT BREATHE"
+		},
+		{
+			"speed": 0.105,
+			"portrait": "oldspong",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WE CANT BREATHE"
+		}
+	]
+}

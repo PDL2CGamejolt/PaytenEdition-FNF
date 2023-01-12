@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "leland idle000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-270
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leland left000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "leland down000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "leland up000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "leland right000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/majinleland",
+	"position": [
+		750,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

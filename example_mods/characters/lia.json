@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "lia idle000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "lia idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lia",
+	"position": [
+		0,
+		230
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

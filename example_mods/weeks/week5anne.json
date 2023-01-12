@@ -1,0 +1,113 @@
+{
+	"songs": [
+		[
+			"Accidental",
+			"anne",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Spamophile",
+			"anna",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Extermination",
+			"annegod",
+			[
+				0,
+				255,
+				253
+			]
+		],
+		[
+			"Ambush",
+			"ivy",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Friendship",
+			"dad",
+			[
+				0,
+				113,
+				253
+			]
+		],
+		[
+			"Clumsy",
+			"marcy",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"Nerd",
+			"marcy",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"Rocking",
+			"dad",
+			[
+				146,
+				13,
+				60
+			]
+		],
+		[
+			"Secretive",
+			"dad",
+			[
+				146,
+				13,
+				60
+			]
+		],
+		[
+			"Calamitous",
+			"dad",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

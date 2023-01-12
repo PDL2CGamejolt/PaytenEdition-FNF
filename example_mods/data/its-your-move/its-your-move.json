@@ -1,0 +1,1388 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "ukmorning",
+		"player1": "bf",
+		"player2": "leslierematch",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"MoveArrow",
+						"0",
+						"100, 0, 0, 0, 0.1"
+					]
+				]
+			],
+			[
+				100,
+				[
+					[
+						"MoveArrow",
+						"1",
+						"100, 0, 0, 0, 0.1"
+					]
+				]
+			],
+			[
+				200,
+				[
+					[
+						"MoveArrow",
+						"2",
+						"100, 0, 0, 0, 0.1"
+					]
+				]
+			],
+			[
+				300,
+				[
+					[
+						"MoveArrow",
+						"3",
+						"100, 0, 0, 0, 0.1"
+					]
+				]
+			],
+			[
+				400,
+				[
+					[
+						"MoveArrow",
+						"4",
+						"-310, 0, 0, 1, 0.1"
+					]
+				]
+			],
+			[
+				500,
+				[
+					[
+						"MoveArrow",
+						"5",
+						"-310, 0, 0, 1, 0.1"
+					]
+				]
+			],
+			[
+				600,
+				[
+					[
+						"MoveArrow",
+						"6",
+						"-310, 0, 0, 1, 0.1"
+					]
+				]
+			],
+			[
+				700,
+				[
+					[
+						"MoveArrow",
+						"7",
+						"-310, 0, 0, 1, 0.1"
+					]
+				]
+			]
+		],
+		"notes": [
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						300,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						500,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						700,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						900,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						1100,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						1300,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						1500,
+						2,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						1700,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						1900,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						2100,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						2300,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						2400,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						2500,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						2600,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						2700,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						2800,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						2900,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						3000,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						3100,
+						1,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						3500,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						3700,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						3900,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						4100,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						4300,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						4500,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						4700,
+						2,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						4900,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						5100,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						5300,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						5500,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						5600,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						5700,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						5800,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						5900,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						6000,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						6100,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						6200,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						6300,
+						1,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						6700,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						6900,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						7100,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						7300,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						7500,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						7700,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						7900,
+						2,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						8100,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						8300,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						8500,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						8700,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						8800,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						8900,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						9000,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						9100,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						9200,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						9300,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						9400,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						9500,
+						1,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						9900,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						10100,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						10300,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						10500,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						10700,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						10900,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						11100,
+						2,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						11300,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						11500,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						11700,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						11900,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						12000,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						12100,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						12200,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						12300,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						12400,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						12500,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						12600,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						12700,
+						1,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						13000,
+						4,
+						0
+					],
+					[
+						13400,
+						5,
+						0
+					],
+					[
+						13900,
+						6,
+						0
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14400,
+						7,
+						0
+					],
+					[
+						14700,
+						5,
+						0
+					],
+					[
+						15200,
+						7,
+						0
+					],
+					[
+						15600,
+						5,
+						0
+					],
+					[
+						15900,
+						7,
+						0
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						16200,
+						0,
+						0
+					],
+					[
+						16500,
+						1,
+						0
+					],
+					[
+						17000,
+						2,
+						0
+					],
+					[
+						17500,
+						3,
+						0
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						17700,
+						1,
+						0
+					],
+					[
+						18300,
+						1,
+						0
+					],
+					[
+						18900,
+						1,
+						0
+					],
+					[
+						18800,
+						1,
+						0
+					],
+					[
+						19000,
+						1,
+						0
+					],
+					[
+						19100,
+						1,
+						0
+					],
+					[
+						18800,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						18800,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						18900,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						18900,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						19000,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						19000,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						19195,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						19195,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						19100,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						19100,
+						2,
+						0,
+						"Ring Note"
+					],
+					[
+						18800,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						18900,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						19000,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						19000,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						19192.5,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						19100,
+						0,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						19200,
+						1,
+						0
+					],
+					[
+						19600,
+						4,
+						0
+					],
+					[
+						19700,
+						4,
+						0
+					],
+					[
+						19900,
+						5,
+						0
+					],
+					[
+						20000,
+						5,
+						0
+					],
+					[
+						20300,
+						6,
+						0
+					],
+					[
+						20200,
+						6,
+						0
+					],
+					[
+						20500,
+						7,
+						400
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						22700,
+						0,
+						0
+					],
+					[
+						23000,
+						1,
+						0
+					],
+					[
+						23400,
+						2,
+						0
+					],
+					[
+						23700,
+						3,
+						0
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24200,
+						2,
+						0
+					],
+					[
+						24500,
+						2,
+						0
+					],
+					[
+						24900,
+						2,
+						0
+					],
+					[
+						25400,
+						2,
+						0
+					],
+					[
+						25500,
+						2,
+						0
+					],
+					[
+						25300,
+						2,
+						0
+					],
+					[
+						25200,
+						2,
+						0
+					],
+					[
+						25100,
+						2,
+						0
+					],
+					[
+						25000,
+						2,
+						0
+					],
+					[
+						24900,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						25000,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						25100,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						25200,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						25300,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						25400,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						25500,
+						1,
+						0,
+						"Ring Note"
+					],
+					[
+						25500,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						25400,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						25300,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						25200,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						25100,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						25000,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						24900,
+						3,
+						0,
+						"Ring Note"
+					],
+					[
+						24900,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						25000,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						25100,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						25200,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						25300,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						25400,
+						0,
+						0,
+						"Ring Note"
+					],
+					[
+						25500,
+						0,
+						0,
+						"Ring Note"
+					]
+				],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Its-Your-Move"
+	}
+}

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pennyhumandialogue.png"><SubTexture name="pennyhumandialogue hahaha0000" x="0" y="0" width="482" height="377" frameX="0" frameY="0" frameWidth="482" frameHeight="377" />
+<SubTexture name="pennyhumandialogue normal0000" x="0" y="377" width="334" height="383" frameX="0" frameY="0" frameWidth="334" frameHeight="383" />
+<SubTexture name="pennyhumandialogue shocked0000" x="0" y="760" width="395" height="386" frameX="0" frameY="0" frameWidth="395" frameHeight="386" />
+</TextureAtlas>

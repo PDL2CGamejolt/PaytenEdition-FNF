@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pencilmissnew.png">
+<SubTexture name="pencilmissnew idle0000" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew idle0001" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew idle0002" x="600" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew idle0003" x="600" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew idle0004" x="0" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew idle0005" x="0" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew left0000" x="600" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew left0001" x="600" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew left0002" x="1200" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew left0003" x="1200" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew left0004" x="1200" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew left0005" x="1200" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew down0000" x="0" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew down0001" x="0" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew down0002" x="600" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew down0003" x="600" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew down0004" x="1200" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew down0005" x="1200" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew up0000" x="1800" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew up0001" x="1800" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew up0002" x="1800" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew up0003" x="1800" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew up0004" x="1800" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew up0005" x="1800" y="1200" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew right0000" x="0" y="1800" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew right0001" x="0" y="1800" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew right0002" x="600" y="1800" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew right0003" x="600" y="1800" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew right0004" x="1200" y="1800" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew right0005" x="1200" y="1800" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew hey0000" x="1800" y="1800" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew hey0001" x="2400" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="pencilmissnew hey0002" x="2400" y="600" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

@@ -1,0 +1,104 @@
+{
+	"songs": [
+		[
+			"--Burger King Arabia--",
+			"none",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"Arabic",
+			"burger",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Have-It-Your-Way",
+			"burger",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"We-All-Quit",
+			"burger",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"Alagamate",
+			"dad",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Restaphobia",
+			"dad",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Closedown",
+			"dad",
+			[
+				0,
+				255,
+				255
+			]
+		],
+		[
+			"Demolished",
+			"dad",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"Competitive",
+			"burger",
+			[
+				255,
+				13,
+				13
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

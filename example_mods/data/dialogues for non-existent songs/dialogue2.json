@@ -1,0 +1,164 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "none",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*After the YT animations*"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Phew!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We survived those animations!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Uh- who is this person..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BY YOU?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pennyhumannew",
+			"boxState": "normal",
+			"expression": "point",
+			"text": "SURPRISE!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "SOASDPJAOILHDYERKYUGLEIGHDB-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Excuse me..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Who- the frick- are you?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pennyhumannew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The name's Penny!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ohhhh! that Penny! I remember now!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "But- aren't you supposed to be some sort of shape-shifting fairy creature or something?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pennyhumannew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Somewhere after \"The Inquisition\", I found something that made me a-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "HUMAN?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pennyhumannew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Ohhhhh. It was AFTER the series you became a human!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's why I didn't know!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "pennyhumannew",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So.... should we rap?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Yeah!"
+		}
+	]
+}

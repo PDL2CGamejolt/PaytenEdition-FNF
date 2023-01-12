@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "amialbreaker idle000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amialbreaker",
+	"position": [
+		0,
+		-150
+	],
+	"healthicon": "ambreak",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		43,
+		49
+	],
+	"camera_position": [
+		-260,
+		-230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

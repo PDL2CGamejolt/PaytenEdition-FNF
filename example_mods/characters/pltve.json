@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "pltve idle000"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "pltve idle000"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "pltve down000"
+		},
+		{
+			"offsets": [
+				-6,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "pltve up000"
+		},
+		{
+			"offsets": [
+				-6,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "pltve up000"
+		},
+		{
+			"offsets": [
+				31,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "pltve left000"
+		},
+		{
+			"offsets": [
+				31,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "pltve left000"
+		},
+		{
+			"offsets": [
+				-70,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "pltve right000"
+		},
+		{
+			"offsets": [
+				-70,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "pltve right000"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "pltve hey000"
+		},
+		{
+			"offsets": [
+				-20,
+				100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "pltve dodge000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pltve",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "payten",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
