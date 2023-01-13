@@ -44,8 +44,7 @@ class MainMenuState extends MusicBeatState
 	var optionShit:Array<String> = ['freeplay', 
 				'credits', 
 				'options',
-				'patch',
-				'soundtest'];
+				'patch',];
 //This causes the screen to blank out, looks like the other stuff is going to the optionShit variable. -Beth
 	function menuShit()
 	{
@@ -54,7 +53,6 @@ class MainMenuState extends MusicBeatState
 			'credits', 
 			'options',
 			'patch',
-			'soundtest'
 			];
 	}
 	var magenta:FlxSprite;
@@ -78,7 +76,6 @@ class MainMenuState extends MusicBeatState
 			'credits', 
 			'options',
 			'patch',
-			'soundtest'
 			];
 		#if desktop
 		// Updating Discord Rich Presence
@@ -149,10 +146,6 @@ class MainMenuState extends MusicBeatState
 
 		bg.visible = true;
 		logo.visible = true;
-		if (!ClientPrefs.lowQuality) {
-			bgScroll.visible = true;
-			bgScroll2.visible = true;
-		}
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
@@ -187,9 +180,6 @@ class MainMenuState extends MusicBeatState
 				menuItem.y = 450;
 			case 'patch':
 				menuItem.x = 715;
-				menuItem.y = 450;
-			case 'soundtest':
-				menuItem.x = 915;
 				menuItem.y = 450;
 			}
 			menuItems.add(menuItem);
