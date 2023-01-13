@@ -39,15 +39,6 @@ class OutdatedState extends MusicBeatState
 		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.WHITE);
 		add(bg);
 
-		clouds = new FlxBackdrop(Paths.image('oscillators/clouds'), 0, 0, true, true, 40, 20);
-		clouds.velocity.set(27, 20); // Speed (Can Also Be Modified For The Direction Aswell)
-		clouds.antialiasing = ClientPrefs.globalAntialiasing;
-		clouds.scale.set(13,13);
-		clouds.updateHitbox();
-		clouds.alpha = 0;
-		clouds.color = FlxColor.BLACK;
-		clouds.blend = BlendMode.MULTIPLY;
-
 		window = new FlxUI9SliceSprite(0,0, Paths.image('oscillators/sex'), new Rectangle(0, 0, 896, 512), [32, 32, 96, 96]);
 		window.screenCenter();
 		window.alpha = 0;
@@ -83,16 +74,6 @@ class OutdatedState extends MusicBeatState
 		add(window);
 		add(buttonYes);
 		add(buttonNo);
-
-		FlxTween.tween(topLayer, {alpha: 1}, 5, {
-			type: PINGPONG,
-			ease: FlxEase.quadInOut
-		});
-
-		FlxTween.tween(clouds, {alpha: 0.725}, 40, {
-			type: PINGPONG,
-			ease: FlxEase.quadInOut
-		});
 
 		warnText = new FlxText(10, 0, FlxG.width,
 			"Your version of DENPA Engine is outdated!\n
