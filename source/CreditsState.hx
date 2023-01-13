@@ -28,16 +28,12 @@ class CreditsState extends MusicBeatState
 	private var creditsStuff:Array<Array<String>> = [];
 
 	var bg:FlxSprite;
-	var bgScroll:FlxBackdrop;
-	var bgScroll2:FlxBackdrop;
 	var gradient:FlxSprite;
 	var nameText:FlxText;
 	var roleText:FlxText;
 	var descText:FlxText;
 	var intendedColor:Int;
 	var colorTween:FlxTween;
-	var bgScrollColorTween:FlxTween;
-	var bgScroll2ColorTween:FlxTween;
 	var gradientColorTween:FlxTween;
 	var descBox:FlxSprite;
 
@@ -198,10 +194,6 @@ class CreditsState extends MusicBeatState
 		add(descText);
 
 		bg.color = getCurrentBGColor();
-		if (!ClientPrefs.lowQuality) {
-			bgScroll.color = getCurrentBGColor();
-			bgScroll2.color = getCurrentBGColor();
-		}
 		gradient.color = getCurrentBGColor();
 		intendedColor = bg.color;
 		changeSelection();
@@ -273,12 +265,6 @@ class CreditsState extends MusicBeatState
 				if(colorTween != null) {
 					colorTween.cancel();
 				}
-				if(bgScrollColorTween != null) {
-					bgScrollColorTween.cancel();
-				}
-				if(bgScroll2ColorTween != null) {
-					bgScroll2ColorTween.cancel();
-				}
 				if(gradientColorTween != null) {
 					gradientColorTween.cancel();
 				}
@@ -331,12 +317,6 @@ class CreditsState extends MusicBeatState
 			if(colorTween != null) {
 				colorTween.cancel();
 			}
-			if(bgScrollColorTween != null) {
-				bgScrollColorTween.cancel();
-			}
-			if(bgScroll2ColorTween != null) {
-				bgScroll2ColorTween.cancel();
-			}
 			if(gradientColorTween != null) {
 				gradientColorTween.cancel();
 			}
@@ -344,16 +324,6 @@ class CreditsState extends MusicBeatState
 			colorTween = FlxTween.color(bg, 1, bg.color, intendedColor, {
 				onComplete: function(twn:FlxTween) {
 					colorTween = null;
-				}
-			});
-			bgScrollColorTween = FlxTween.color(bgScroll, 1, bgScroll.color, intendedColor, {
-				onComplete: function(twn:FlxTween) {
-					bgScrollColorTween = null;
-				}
-			});
-			bgScrollColorTween = FlxTween.color(bgScroll2, 1, bgScroll2.color, intendedColor, {
-				onComplete: function(twn:FlxTween) {
-					bgScrollColorTween = null;
 				}
 			});
 			gradientColorTween = FlxTween.color(gradient, 1, gradient.color, intendedColor, {
