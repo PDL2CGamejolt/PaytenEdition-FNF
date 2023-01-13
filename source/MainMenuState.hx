@@ -32,6 +32,7 @@ class MainMenuState extends MusicBeatState
 	public static var denpaEngineVersion:String = '0.7.0b Nightly'; //For declaring "HEY THIS ISNT FINAL"
 	#end
 	public static var baseVersion:String = '0.5.2h'; //For those wondering what this engine is based on
+	public static var payteneditionVersion:String = '1'; //Payten Edition in general's version (v1 is not done yet)
 	public static var curSelected:Int = 0;
 	public static var seenTween:Bool = false;
 
@@ -40,8 +41,7 @@ class MainMenuState extends MusicBeatState
 
 	var curDifficulty:Int = -1;
 	
-	var optionShit:Array<String> = ['story_mode', 
-				'freeplay', 
+	var optionShit:Array<String> = ['freeplay', 
 				'credits', 
 				'options',
 				'patch',
@@ -50,7 +50,6 @@ class MainMenuState extends MusicBeatState
 	function menuShit()
 	{
 		optionShit = [
-			'story_mode', 
 			'freeplay', 
 			'credits', 
 			'options',
@@ -75,7 +74,6 @@ class MainMenuState extends MusicBeatState
 		Paths.clearUnusedMemory();
 		WeekData.loadTheFirstEnabledMod();
 		optionShit = [
-			'story_mode', 
 			'freeplay', 
 			'credits', 
 			'options',
@@ -178,24 +176,21 @@ class MainMenuState extends MusicBeatState
 			if(seenTween) menuItem.alpha = 1;
 			menuItem.ID = i;
 			switch (optionShit[i])
-			{case 'story_mode':
+			{case 'freeplay':
 				menuItem.x = 115;
 				menuItem.y = 450;
-			case 'freeplay':
+			case 'credits':
 				menuItem.x = 315;
 				menuItem.y = 450;
-			case 'credits':
+			case 'options':
 				menuItem.x = 515;
 				menuItem.y = 450;
-			case 'options':
+			case 'patch':
 				menuItem.x = 715;
 				menuItem.y = 450;
-			case 'patch':
+			case 'soundtest':
 				menuItem.x = 915;
 				menuItem.y = 450;
-			case 'soundtest':
-				menuItem.x = 0;
-				menuItem.y = -30;
 			}
 			menuItems.add(menuItem);
 			var scr:Float = (optionShit.length - 4) * 0.135;
@@ -208,6 +203,10 @@ class MainMenuState extends MusicBeatState
 
 		FlxG.camera.follow(camFollowPos, null, 1);
 
+		var versionShit3:FlxText = new FlxText(12, FlxG.height - #if !html 84 #else 64 #end, 0, "Payten Edition v" + payteneditionVersion, 12);
+		versionShit3.scrollFactor.set();
+		versionShit3.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
+		add(versionShit3);
 		var versionShit2:FlxText = new FlxText(12, FlxG.height - #if !html 64 #else 44 #end, 0, "Denpa Engine v" + denpaEngineVersion, 12);
 		versionShit2.scrollFactor.set();
 		versionShit2.setFormat("VCR OSD Mono", 16, FlxColor.WHITE, LEFT, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
@@ -352,7 +351,7 @@ class MainMenuState extends MusicBeatState
 				ClientPrefs.keyBinds = ClientPrefs.defaultKeys.copy();
 				trace ('erasing data');
 				FlxG.sound.play(Paths.sound('invalidJSON'));
-				var funnyText = new FlxText(12, FlxG.height - 24, 0, "Data Erased!");
+				var funnyText = new FlxText(12, FlxG.height - 24, 0, "You have refreshed.");
 				funnyText.scrollFactor.set();
 				funnyText.screenCenter();
 				funnyText.x = FlxG.width/2 - 250;
@@ -411,8 +410,6 @@ class MainMenuState extends MusicBeatState
 
 							switch (daChoice)
 							{
-								case 'story_mode':
-									MusicBeatState.switchState(new StoryMenuState());
 								case 'freeplay':
 									MusicBeatState.switchState(new FreeplaySectionState());
 								case 'credits':
