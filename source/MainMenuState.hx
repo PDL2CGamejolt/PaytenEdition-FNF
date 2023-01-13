@@ -63,8 +63,6 @@ class MainMenuState extends MusicBeatState
 	var logo:FlxSprite;
 	var bg:FlxSprite;
 	var gradient:FlxSprite;
-	var bgScroll:FlxBackdrop;
-	var bgScroll2:FlxBackdrop;
 
 	override function create()
 	{
@@ -233,10 +231,6 @@ class MainMenuState extends MusicBeatState
 		//Conductor.changeBPM(100);
 
 		bg.color = SoundTestState.getDaColor();
-		if (!ClientPrefs.lowQuality) {
-			bgScroll.color = SoundTestState.getDaColor();
-			bgScroll2.color = SoundTestState.getDaColor();
-		}
 		gradient.color = SoundTestState.getDaColor();
 		
 		super.create();
