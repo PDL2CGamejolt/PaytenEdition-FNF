@@ -111,7 +111,6 @@ class NotesSubState extends MusicBeatSubstate
 			note.animation.play('idle');
 			note.antialiasing = ClientPrefs.globalAntialiasing;
 			note.ID = i;
-			grpNotes.add(note);
 
 			var newShader:ColorSwap = new ColorSwap();
 			note.shader = newShader.shader;
