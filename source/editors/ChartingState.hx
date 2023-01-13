@@ -401,7 +401,7 @@ class ChartingState extends MusicBeatState
 
 		currentSongName = Paths.formatToSongPath(_song.header.song);
 		loadAudioBuffer();
-		reloadGridLayer();
+		//reloadGridLayer();
 		loadSong();
 		Conductor.changeBPM(_song.header.bpm);
 		Conductor.mapBPMChanges(_song);
@@ -2769,7 +2769,7 @@ class ChartingState extends MusicBeatState
 				}
 			}
 
-		updateGrid();
+		//updateGrid();
 	}
 
 	var waveformPrinted:Bool = true;
@@ -3005,12 +3005,12 @@ class ChartingState extends MusicBeatState
 			if(colorTween != null) {
 				colorTween.cancel();
 			}
-			if(bgScrollColorTween != null) {
-				bgScrollColorTween.cancel();
-			}
-			if(bgScroll2ColorTween != null) {
-				bgScroll2ColorTween.cancel();
-			}
+//			if(bgScrollColorTween != null) {
+//				bgScrollColorTween.cancel();
+//			}
+//			if(bgScroll2ColorTween != null) {
+//				bgScroll2ColorTween.cancel();
+//			}
 			if(gradientColorTween != null) {
 				gradientColorTween.cancel();
 			}
@@ -3026,16 +3026,16 @@ class ChartingState extends MusicBeatState
 					colorTween = null;
 				}
 			});
-			bgScrollColorTween = FlxTween.color(bgScroll, 0.75, bgScroll.color, intendedColor, {
-				onComplete: function(twn:FlxTween) {
-					bgScrollColorTween = null;
-				}
-			});
-			bgScroll2ColorTween = FlxTween.color(bgScroll2, 0.75, bgScroll2.color, intendedColor, {
-				onComplete: function(twn:FlxTween) {
-					bgScroll2ColorTween = null;
-				}
-			});
+//			bgScrollColorTween = FlxTween.color(bgScroll, 0.75, bgScroll.color, intendedColor, {
+//				onComplete: function(twn:FlxTween) {
+//					bgScrollColorTween = null;
+//				}
+//			});
+//			bgScroll2ColorTween = FlxTween.color(bgScroll2, 0.75, bgScroll2.color, intendedColor, {
+//				onComplete: function(twn:FlxTween) {
+//					bgScroll2ColorTween = null;
+//				}
+//			});
 			gradientColorTween = FlxTween.color(gradient, 0.75, gradient.color, intendedColor, {
 					onComplete: function(twn:FlxTween) {
 					gradientColorTween = null;
@@ -3223,9 +3223,6 @@ class ChartingState extends MusicBeatState
 				note.alpha = 0.6;
 				nextRenderedNotes.add(note);
 			}
-		}
-		if (!ClientPrefs.lowQuality) {
-			updateColors();
 		}
 	}
 
