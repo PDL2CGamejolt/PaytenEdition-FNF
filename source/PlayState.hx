@@ -6531,6 +6531,7 @@ class PlayState extends MusicBeatState
 			skinShit = '-' + ClientPrefs.uiSkin.toLowerCase();
 		}
 
+                if (!cpuControlled) {
 		rating.loadGraphic(Paths.image(extraPath + pixelShitPart1 + daRating + pixelShitPart2 + skinShit));
 		if (!ClientPrefs.wrongCamera) {
 			rating.cameras = [camHUD];
@@ -6827,6 +6828,7 @@ class PlayState extends MusicBeatState
 			});
 		}
 	}
+        }
 
 	public function onKeyPress(event:KeyboardEvent):Void
 	{
