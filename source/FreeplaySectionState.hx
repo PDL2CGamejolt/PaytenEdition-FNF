@@ -37,8 +37,6 @@ class FreeplaySectionState extends MusicBeatState
 
 	var bg:FlxSprite;
 	var gradient:FlxSprite;
-	var bgScroll:FlxBackdrop;
-	var bgScroll2:FlxBackdrop;
 
 	var transitioning:Bool = false;
 
@@ -130,10 +128,6 @@ class FreeplaySectionState extends MusicBeatState
 		FlxG.camera.follow(camFollowPos, null, 1);
 
 		bg.color = SoundTestState.getDaColor();
-		if (!ClientPrefs.lowQuality) {
-			bgScroll.color = SoundTestState.getDaColor();
-			bgScroll2.color = SoundTestState.getDaColor();
-		}
 		gradient.color = SoundTestState.getDaColor();
 
 		super.create();
@@ -205,8 +199,6 @@ class FreeplaySectionState extends MusicBeatState
 			FlxG.sound.play(Paths.sound('confirmMenu'));
 			transitioning = true;
 			sectionTxt.visible = false;
-			bgScroll.visible = false;
-			bgScroll2.visible = false;
 			gradient.visible = false;
 			FlxTween.tween(sectionSpr, {'scale.x': 11, 'scale.y': 11, y: sectionSpr.y + 3000, alpha: 0}, 0.9, {
 				ease: FlxEase.expoIn
